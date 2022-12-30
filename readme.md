@@ -8,4 +8,12 @@ Prioritizing green energy usage as much as possible, the algorithm cares upon lo
 
 - The `energy_dataset.csv.zip` has the actual dataset upon which the attached paper is related.
 
+### Findings:
+Here in `v0_out_day.txt` file contains the day wise outputs of the `better_algo_v0.ipynb` code.
+And`v1_out_day.txt` file contains the day wise outputs of the `better_algo_v1.ipynb` code.
+
+Comparing them we can find many insights.
+
+### Difference between `better_algo_v0.ipynb` and `better_algo_v1.ipynb`
+As the name suggests, `better_algo_v1.ipynb` is the later version of the work which has the better solution. Again, many edge cases were untouched in `better_algo_v0.ipynb` but addressed properly in `better_algo_v1.ipynb`.
 #### Thank you
